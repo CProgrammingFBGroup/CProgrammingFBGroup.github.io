@@ -1,2 +1,2 @@
 # CProgrammingFBGroup.github.io
-This is the GitHub organization page for the C Programming group on Facebook. 
+This repository is used by the GitHub organization page website by the C Programming group on Facebook. 
